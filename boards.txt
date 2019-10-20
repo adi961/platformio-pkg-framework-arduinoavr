@@ -2,6 +2,31 @@
 
 menu.cpu=Processor
 
+############################################################
+
+jabatmega644a.name=Jabduino ATmega644A
+
+jabatmega644a.upload.protocol=stk500
+jabatmega644a.upload.maximum_size=63488
+jabatmega644a.upload.speed=57600
+
+jabatmega644a.build.mcu=atmega644a
+jabatmega644a.build.f_cpu=8000000L
+jabatmega644a.build.core=jabduino
+jabatmega644a.build.variant=jabduino
+
+jabatmega644.name=Jabduino ATmega644
+
+jabatmega644.upload.protocol=stk500
+jabatmega644.upload.maximum_size=63488
+jabatmega644.upload.speed=57600
+
+jabatmega644.build.mcu=atmega644
+jabatmega644.build.f_cpu=8000000L
+jabatmega644.build.core=jabduino
+jabatmega644.build.variant=jabduino
+
+
 ##############################################################
 
 yun.name=Arduino Yún
